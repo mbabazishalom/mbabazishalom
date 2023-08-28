@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Mbabazi Shalom. 
-- 👀 I'm a high school student in Uganda fascinated by the intersection of computer science and law, exploring how technology impacts legal systems.
+- 👀 I'm a high school student in Uganda fascinated by the intersection of computer science, math and law, exploring how technology impacts legal systems.
 - 🌱 I’m currently teaching myself C++, and doing projects at the intersection of machine learning and law. 
 
 
